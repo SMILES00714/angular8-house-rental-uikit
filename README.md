@@ -1,10 +1,10 @@
-<<<<<<< HEAD
-# angular8-house-rental
-Angular 8 House Rental App demonstrating Angular fundamentals with UIKit
-=======
-# HomeRental
+# Angular 8 - Home Rental App with UIKit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+
+## IMPORTANT STEP
+
+Run `npm install` to install all node dependencies defined in package.json. Only after all necessary node dependencies are installed & configured you can start using the app.
 
 ## Development server
 
@@ -29,4 +29,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
->>>>>>> Initial Commit with House Type Filtering
